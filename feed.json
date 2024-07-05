@@ -1,0 +1,28 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "law",
+    "description": "",
+    "home_page_url": "https://lcrobles.github.io/law",
+    "feed_url": "https://lcrobles.github.io/law/feed.json",
+    "user_comment": "",
+    "icon": "https://lcrobles.github.io/law/media/website/1920x1280_astrozombie-Logo.jpg",
+    "author": {
+        "name": "LCRobles"
+    },
+    "items": [
+        {
+            "id": "https://lcrobles.github.io/law/testing-1-2-3.html",
+            "url": "https://lcrobles.github.io/law/testing-1-2-3.html",
+            "title": "Testing 1, 2, 3...",
+            "summary": "Lets see what happens here.",
+            "content_html": "<p>Lets see what happens here.</p>",
+            "author": {
+                "name": "LCRobles"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-05T09:05:06-04:00",
+            "date_modified": "2024-07-05T09:05:06-04:00"
+        }
+    ]
+}

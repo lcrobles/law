@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>law</title>
+    <link href="https://lcrobles.github.io/law/feed.xml" rel="self" />
+    <link href="https://lcrobles.github.io/law" />
+    <updated>2024-07-05T09:05:06-04:00</updated>
+    <author>
+        <name>LCRobles</name>
+    </author>
+    <id>https://lcrobles.github.io/law</id>
+
+    <entry>
+        <title>Testing 1, 2, 3...</title>
+        <author>
+            <name>LCRobles</name>
+        </author>
+        <link href="https://lcrobles.github.io/law/testing-1-2-3.html"/>
+        <id>https://lcrobles.github.io/law/testing-1-2-3.html</id>
+
+        <updated>2024-07-05T09:05:06-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Lets see what happens here.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Lets see what happens here.</p>
+            ]]>
+        </content>
+    </entry>
+</feed>
