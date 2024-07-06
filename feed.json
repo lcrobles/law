@@ -11,6 +11,20 @@
     },
     "items": [
         {
+            "id": "https://lcrobles.github.io/law/still-searching.html",
+            "url": "https://lcrobles.github.io/law/still-searching.html",
+            "title": "still searching.",
+            "summary": "Je ne sais même pas quoi dire.. racané...",
+            "content_html": "<p><span class=\"HwtZe\" lang=\"fr\"><span class=\"jCAhz JxVs2d ChMk0b\"><span class=\"ryNqvb\">Je ne sais même pas quoi dire.. </span></span></span><span class=\"HwtZe\" lang=\"zap\"><span class=\"jCAhz JxVs2d ChMk0b\"><span class=\"ryNqvb\">racané...</span></span></span></p>",
+            "author": {
+                "name": "LCRobles"
+            },
+            "tags": [
+            ],
+            "date_published": "2024-07-06T06:27:33-04:00",
+            "date_modified": "2024-07-06T06:27:33-04:00"
+        },
+        {
             "id": "https://lcrobles.github.io/law/testing-1-2-3.html",
             "url": "https://lcrobles.github.io/law/testing-1-2-3.html",
             "title": "Testing 1, 2, 3...",

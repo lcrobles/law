@@ -3,12 +3,32 @@
     <title>law</title>
     <link href="https://lcrobles.github.io/law/feed.xml" rel="self" />
     <link href="https://lcrobles.github.io/law" />
-    <updated>2024-07-05T09:05:06-04:00</updated>
+    <updated>2024-07-06T06:27:33-04:00</updated>
     <author>
         <name>LCRobles</name>
     </author>
     <id>https://lcrobles.github.io/law</id>
 
+    <entry>
+        <title>still searching.</title>
+        <author>
+            <name>LCRobles</name>
+        </author>
+        <link href="https://lcrobles.github.io/law/still-searching.html"/>
+        <id>https://lcrobles.github.io/law/still-searching.html</id>
+
+        <updated>2024-07-06T06:27:33-04:00</updated>
+            <summary>
+                <![CDATA[
+                    Je ne sais même pas quoi dire.. racané...
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p><span class="HwtZe" lang="fr"><span class="jCAhz JxVs2d ChMk0b"><span class="ryNqvb">Je ne sais même pas quoi dire.. </span></span></span><span class="HwtZe" lang="zap"><span class="jCAhz JxVs2d ChMk0b"><span class="ryNqvb">racané...</span></span></span></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Testing 1, 2, 3...</title>
         <author>
