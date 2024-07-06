@@ -1,3 +1,2 @@
 User-agent: *
-Disallow:
-Sitemap: https://lcrobles.github.io/law/sitemap.xml
+Disallow: /
